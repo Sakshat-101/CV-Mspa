@@ -1,0 +1,5 @@
+fer==22.5.0
+opencv-python-headless
+matplotlib
+pygame==2.1.0
+numpy
